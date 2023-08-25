@@ -1,0 +1,39 @@
+
++919741413172
+yashwanth110@gmail.com
+Python 3.11.4 (tags/v3.11.4:d2340ef, Jun  7 2023, 05:45:37) [MSC v.1934 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+= RESTART: C:/Users/chand/AppData/Local/Programs/Python/Python311/jyg.py
+Entre the phne number:123-123-1234
+ given input is a phone number
+
+= RESTART: C:/Users/chand/AppData/Local/Programs/Python/Python311/jyg.py
+Entre the phne number:
+= RESTART: C:/Users/chand/AppData/Local/Programs/Python/Python311/jyg.py
+
+
+= RESTART: C:/Users/chand/OneDrive/Desktop/4MT21CS190/regular email.py
+
+
+= RESTART: C:/Users/chand/OneDrive/Desktop/4MT21CS190/regular email.py
+
+
+== RESTART: C:/Users/chand/OneDrive/Desktop/4MT21CS190/example.py ==
+
+
+== RESTART: C:/Users/chand/OneDrive/Desktop/4MT21CS190/example.py ==
++919741413172
+yashwanth110@gmail.com
+
+===== RESTART: C:/Users/chand/OneDrive/Desktop/4MT21CS190/6a.py ====
+Enter the filename : example
+File example doesn't exists
+
+===== RESTART: C:/Users/chand/OneDrive/Desktop/4MT21CS190/6a.py ====
+Enter the filename : example.txt
+1 : 
+ 2 : +919741413172
+ 3 : yashwanth110@gmail.com 
+ Enter a word : yashwanth
+The word yashwanth appears 1 times in the file
